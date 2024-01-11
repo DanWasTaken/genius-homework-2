@@ -134,6 +134,10 @@ header {
 
 /* hero-section */
 
+#hero-section {
+  margin-top: 16px;
+}
+
 #hero-section::before {
   content: '';
   position: absolute;
